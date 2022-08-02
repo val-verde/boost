@@ -535,7 +535,7 @@
 	branch = .
 [submodule "context"]
 	path = libs/context
-	url = https://github.com/boostorg/context.git
+	url = https://github.com/val-verde/boost-context.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "type_erasure"]
